@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TRABAJOANDROID</string>
+    <string name="trivial">Trivial</string>
+    <string name="music">Musica</string>
+    <string name="calculator">Calculadora</string>
+    <string name="notes">Notas</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
